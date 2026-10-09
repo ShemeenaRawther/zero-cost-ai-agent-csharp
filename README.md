@@ -171,7 +171,7 @@ ollama list
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/zero-cost-ai-agent-csharp.git
+git clone https://github.com/ShemeenaRawther/zero-cost-ai-agent-csharp.git
 ```
 
 Move into the project:
